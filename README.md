@@ -1,4 +1,4 @@
--Hi, ich bin ein deutscher Web Entwickler. Meine stärken sind <b>💻Javascript</b> und �<b>💻Css</b>.
+-Hi, ich bin ein deutscher Web Entwickler. Meine stärken sind <b>💻Javascript</b> und <b>💻Css</b>.
 
 
 <!---
